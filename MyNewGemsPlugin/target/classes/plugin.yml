@@ -1,0 +1,5 @@
+name: NewGemsPlugin
+version: 1.0
+main: kukso.newgemsplugin.NewGemsPlugin
+api-version: 1.21
+depend: [ProtocolLib]
